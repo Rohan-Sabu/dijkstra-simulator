@@ -10,7 +10,7 @@ An interactive learning platform that brings **Dijkstra's Shortest Path Algorith
 - 📚 **Learn** – Understand graph theory, routing and Dijkstra's algorithm through interactive lessons.
 - 🌐 **Build Networks** – Create your own network by connecting routers with different link costs.
 - ⚡ **Visualize** – Watch Dijkstra's algorithm find the shortest paths, step by step.
-- 🎯 **Practice** – Solve shortest-path challenges and test your understanding.
+- 🎯 **Practice** – Solve shortest-path exercise and test your understanding.
 - 🧠 **Take Quizzes** – Challenge yourself with interactive questions.
 - 📖 **Explore** – Access formulas, pseudocode, key concepts and viva questions.
   
